@@ -7,4 +7,6 @@ public class Main {
         Singleton.getinstance().showMessage();
     }
 
+
+
 }
